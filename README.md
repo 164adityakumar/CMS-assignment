@@ -1,12 +1,14 @@
 
-# Vahan Assignment - Assignment : 
+# Vahan Assignment 
  
 **This project is a rudimentary headless CMS with basic CRUD functionality, developed as part of the SDE intern assignment. It allows users to create different entities, perform CRUD operations on them, and stores data in a MySQL database.**
 
- 
+### 
+![image](https://github.com/164adityakumar/CMS-assignment/assets/98655260/cacddaaa-614b-42d3-bd0b-4a1bf6505a87)
+
 ### Built With
 
-- ReactJS:  .
+- ReactJS
 - Node.js
 - Express.js
 - MySQL
@@ -17,7 +19,7 @@
 **1. Clone the Repository and Install Dependencies:**
 
 ```bash
-git clone https://github.com/Rohitrky2021/Vahan_CRUD_MYSQL
+git clone https://github.com/164adityakumar/CMS-assignment
 cd server 
 npm install
 ```
